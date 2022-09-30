@@ -27,7 +27,7 @@ function Skills() {
             <IoLogoCss3 />
           </div>
           <div className="card-items px-16 py-4 space-x-2 bg-gray-200 shadow text-2xl rounded">
-            <h1>Tailwind CSS</h1>
+            <h1>Tailwind</h1>
             <SiTailwindcss />
           </div>
           <div className="card-items px-16 py-4 space-x-2 bg-gray-200 shadow text-2xl rounded">
