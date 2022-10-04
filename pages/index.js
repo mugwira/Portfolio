@@ -40,7 +40,7 @@ export default function Home() {
         <Link href="/portfolio/about">
           <motion.a
             variants={myAnimation}
-            className="border px-12 bg-navy hover:bg-navyLight text-white py-3 font-semibold rounded-full"
+            className="border px-12 bg-navy hover:bg-navyLight hover:cursor-pointer text-white py-3 font-semibold rounded-full"
           >
             View More
           </motion.a>
